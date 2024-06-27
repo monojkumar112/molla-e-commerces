@@ -1,6 +1,7 @@
 @extends('admin.layouts.master')
 
 @section('content')
+
     <div class="page-content">
         <nav class="page-breadcrumb d-flex align-center justify-content-between">
             <ol class="breadcrumb">
